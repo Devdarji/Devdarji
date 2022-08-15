@@ -68,23 +68,21 @@
 </br>
 
 <div align="center">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=Devdarji&theme=gotham&layout=compact&langs_count=8"/>
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=Devdarji&theme=tokyonight&layout=compact&langs_count=8"/>
 </div>
 
 <h3>
   :chart_with_upwards_trend: &nbsp;&nbsp;&nbsp;&nbsp;My GitHub Stats
 </h3>
 </br>
+
 <div align="center">
-  
-</div>
-<div align="center">
-  <img  width="40%" height="100%"src="https://github-readme-stats.vercel.app/api?username=Devdarji&show_icons=true&theme=gotham" alt="Devdarji" align="left" />
-  <img  width="40%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devdarji&theme=gotham" align="right"/>
+  <img  width="40%" height="100%"src="https://github-readme-stats.vercel.app/api?username=Devdarji&show_icons=true&theme=tokyonight" alt="Devdarji" align="left" />
+  <img  width="40%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devdarji&theme=tokyonight" align="right"/>
 </div>
 </br></br></br></br>
 <div align="center">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Devdarji&theme=gotham"/>
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Devdarji&theme=tokyonight"/>
 </div>
 
 
