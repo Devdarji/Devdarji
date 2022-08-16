@@ -15,7 +15,7 @@
     :bookmark: :computer: I'm Software Enginner at Digiqt Technolabs.
   </li>
   <li>
-    :bookmark: :seedling: I’m currently learning more on React,Python, and Data Science.
+    :bookmark: :seedling: I’m currently learning more on React, Python, and Data Science.
   </li>
   <li>
     :bookmark: :trophy: Hackerrank [@devdarji](https://www.hackerrank.com/devdarji) 
