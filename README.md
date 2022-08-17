@@ -85,4 +85,9 @@
     <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Devdarji&theme=tokyonight"/>
 </div>
 
-<img height="150px" src="https://github-profile-trophy.vercel.app/?username=Devdarji&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+<h3>
+  :calendar: &nbsp;&nbsp;&nbsp;&nbsp;Social
+</h3>
+</br>
+
+<img height="150px" src="https://github-profile-trophy.vercel.app/?username=Devdarji&&title=MultiLanguage,Repositories,Commits,PullRequest&column=3&margin-w=30&margin-h=15"/>
