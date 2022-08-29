@@ -89,5 +89,6 @@
   :calendar: &nbsp;&nbsp;&nbsp;&nbsp;Social
 </h3>
 </br>
-
-<img height="150px" src="https://github-profile-trophy.vercel.app/?username=Devdarji&&title=MultiLanguage,Repositories,Commits,PullRequest&column=3&margin-w=30&margin-h=15"/>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Devdarji&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
