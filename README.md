@@ -24,7 +24,7 @@
     :bookmark: :heart_eyes: DevFolio Website [@devendra_darji](https://dev.to/devendra_darji) 
   </li>
   <li>
-    :bookmark: :book: Voracious Reader with interest in Python, Django, and Data Science. 
+    :bookmark: :book: Voracious Reader with interest in Python, Django, JavaScript and Data Science. 
   </li>
   <li>
     :bookmark: :computer: Currently working on Python, Django, Node.js, React.js. 
